@@ -281,3 +281,23 @@ What is recovery scenario and how will achieve ?
 Recovery scenario is being handled via Exception handling in java. It is used to get out of un-expected errors which might come during the execution.
 We have good exception handling in al most all the important methods. So as soon as any method encounters an error, proper message is logged in the report and test case moves on to the next test cases.
 Another example is of StaleElementException. Some times due to dynamic pages with java script code we get StaleElementException. This is not really an application issue, but we need to give our script enough tolerance so that if stale element occurs our test case should not fail but rather capture the exception and retry the step.
+
+In short thats how we implement recovery scenarios in our project.
+ 
+
+Questions for Interview perspective in Manager round
+
+What type of accomplishment you achieved in your career?
+What are your area of excellence?
+If you get a chance to lead a team, do you accept this offer? How you are knowing that you are a good team leader ?
+If you are hired for a different technology ex. Selenium with C# ? How would you able to perform in a totally different environment ? And then why should we hire you?
+Where do you see yourself in the next 5 Years?
+How do rate yourself in Selenium and Java on a Scale of 0 to  10?
+Can you work independently(Alone) for a whole project as a Tester?
+What’s the rating your manager will give on your total carrier performance?
+What if team lead is not present and you caught a high severity bug and without team lead how will you report it further?
+If in production environment the code is  having issues, then who takes the responsibility? And what will you do at that time?
+If you get a chance to work in development then will you chose it a career opportunity? If Yes why? And If not then Why?
+What if client deadline for the project is not matching with your timeline then how will you handle the situation?
+If you get chance for onsite are you ready for it?
+What types of skills you having extra than Selenium Java and Automation?
